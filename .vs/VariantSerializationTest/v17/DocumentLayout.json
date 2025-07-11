@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|c:\\programmingprojfile\\\u5B66\u4E60\\.net\\\u81EA\u5DF1\u5C1D\u8BD5\\variantserializationtest\\variantserializationtest\\cellserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|solutionrelative:variantserializationtest\\cellserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|c:\\programmingprojfile\\\u5B66\u4E60\\.net\\\u81EA\u5DF1\u5C1D\u8BD5\\variantserializationtest\\variantserializationtest\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|solutionrelative:variantserializationtest\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|c:\\programmingprojfile\\\u5B66\u4E60\\.net\\\u81EA\u5DF1\u5C1D\u8BD5\\variantserializationtest\\variantserializationtest\\varinthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|solutionrelative:variantserializationtest\\varinthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|c:\\programmingprojfile\\\u5B66\u4E60\\.net\\\u81EA\u5DF1\u5C1D\u8BD5\\variantserializationtest\\variantserializationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8000B1BF-0E9D-4067-8F59-E7A282314F1C}|VariantSerializationTest\\VariantSerializationTest.csproj|solutionrelative:variantserializationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CellSerializer.cs",
+              "DocumentMoniker": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\CellSerializer.cs",
+              "RelativeDocumentMoniker": "VariantSerializationTest\\CellSerializer.cs",
+              "ToolTip": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\CellSerializer.cs",
+              "RelativeToolTip": "VariantSerializationTest\\CellSerializer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAL4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:08:26.68Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\Cell.cs",
+              "RelativeDocumentMoniker": "VariantSerializationTest\\Cell.cs",
+              "ToolTip": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\Cell.cs",
+              "RelativeToolTip": "VariantSerializationTest\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:50:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VarintHelper.cs",
+              "DocumentMoniker": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\VarintHelper.cs",
+              "RelativeDocumentMoniker": "VariantSerializationTest\\VarintHelper.cs",
+              "ToolTip": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\VarintHelper.cs",
+              "RelativeToolTip": "VariantSerializationTest\\VarintHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:06:46.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\Program.cs",
+              "RelativeDocumentMoniker": "VariantSerializationTest\\Program.cs",
+              "ToolTip": "C:\\ProgrammingProjFile\\\u5B66\u4E60\\.NET\\\u81EA\u5DF1\u5C1D\u8BD5\\VariantSerializationTest\\VariantSerializationTest\\Program.cs",
+              "RelativeToolTip": "VariantSerializationTest\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:53:21.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
